@@ -1,13 +1,13 @@
 Name: Norald Alejo
 
-Compilation and Run Successful: SUCCESS!!!
-Program output...
+Compilation and Run Successful: SUCCESS!!!  
+Program output...  
 Running MainActivity unit tests
 
 Process finished with exit code 0
 
-Unit Test Run Successfully: SUCCESS!!!
-Program output...
+Unit Test Run Successfully: SUCCESS!!!  
+Program output... 
 Running example unit test...
 
 Process finished with exit code 0
